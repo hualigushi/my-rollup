@@ -1,1 +1,6 @@
-console.log('111')
+import {name,age} from './msg'
+
+const say = ()=>{
+    console.log(age)
+}
+say()
